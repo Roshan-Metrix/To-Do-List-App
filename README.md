@@ -12,6 +12,8 @@ Its a todo list app developed just using html,css and javascript with a beautifu
 
 -  [License](#license)
 
+- [Screenshot](#screenshot)
+
   
 
 ##  Technologies-Used
